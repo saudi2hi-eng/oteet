@@ -6,9 +6,9 @@
 
 | من | رابط الدخول | البريد |
 | --- | --- | --- |
-| أوتيت (مالك المنصة) | https://saudi2hi-eng.github.io/oteet/platform/ | `owner@oteet.sa` |
-| شركة توظيف (مسؤول) | https://saudi2hi-eng.github.io/oteet/login/ | `admin@alriyada.sa` |
-| موظف | https://saudi2hi-eng.github.io/oteet/login/ | `employee@alriyada.sa` |
+| أوتيت (مالك المنصة) — اختر «أوتيت» | https://saudi2hi-eng.github.io/oteet/login/ | `owner@oteet.sa` |
+| شركة توظيف — اختر «شركة توظيف» | https://saudi2hi-eng.github.io/oteet/login/ | `admin@alriyada.sa` |
+| موظف — اختر «موظف» | https://saudi2hi-eng.github.io/oteet/login/ | `employee@alriyada.sa` |
 
 كلمة المرور لكل الحسابات التجريبية: `Oteet@2030`. البيانات تجريبية وتُحفظ في متصفح الزائر فقط.
 
