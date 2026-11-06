@@ -1,10 +1,15 @@
 # أوتيت · Oteet
 
-منصة لإدارة العمل عن بعد: المهام، الحضور والإجازات، التنبيهات، التدريب، والموظفون — بالعربي والإنجليزي.
+منصة أوتيت تربط شركات التوظيف بموظفيها: المهام، الحضور والإجازات، التنبيهات، التدريب — بالعربي والإنجليزي.
 
 **نسخة عرض:** https://saudi2hi-eng.github.io/oteet/
 
-البيانات تجريبية وتُحفظ في متصفح الزائر فقط.
-حسابات التجربة: `admin@oteet.sa` و `employee@oteet.sa` — كلمة المرور `Oteet@2030`.
+| من | رابط الدخول | البريد |
+| --- | --- | --- |
+| أوتيت (مالك المنصة) | https://saudi2hi-eng.github.io/oteet/platform/ | `owner@oteet.sa` |
+| شركة توظيف (مسؤول) | https://saudi2hi-eng.github.io/oteet/login/ | `admin@alriyada.sa` |
+| موظف | https://saudi2hi-eng.github.io/oteet/login/ | `employee@alriyada.sa` |
+
+كلمة المرور لكل الحسابات التجريبية: `Oteet@2030`. البيانات تجريبية وتُحفظ في متصفح الزائر فقط.
 
 This repository holds the built static site only.
